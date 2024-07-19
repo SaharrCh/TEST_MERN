@@ -1,10 +1,15 @@
 # TEST_MERN
+//
 -----Documentation----- :
+//
 Instructions pour Installer et Exécuter le Backend, l'Application Electron, et le Frontend Reactjs : 
-
+//
 Node.js (version 16)
+//
 npm 
+//
 MongoDB 
+//
 
 -----Étapes d'installation & Exécution du Backend-----
 
